@@ -8,6 +8,6 @@ $renderer = new TorgRender();
 $renderer
     ->getRender()
     ->generateReport()
-    //->renderXls("torg12.xls")
-    ->renderPdf("torg1256.pdf");
+   // ->renderXls("torg12.xls")
+    ->renderPdf("torg12.pdf");
 
