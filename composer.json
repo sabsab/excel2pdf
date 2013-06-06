@@ -16,7 +16,7 @@
     "require": {
         "sabsab/PHPReport":"dev-master",
         "sabsab/mpdf":"dev-master",
-        "sabsab/PHPExcel":"dev-master"
+        "sabsab/PHPExcel":"dev-develop"
     },
     "repositories":[
         {
